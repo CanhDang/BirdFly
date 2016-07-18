@@ -12,6 +12,23 @@
 		7E3D119B1D3CCD6D0070B453 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11991D3CCD6D0070B453 /* Main.storyboard */; };
 		7E3D119D1D3CCD6D0070B453 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D119C1D3CCD6D0070B453 /* Assets.xcassets */; };
 		7E3D11A01D3CCD6D0070B453 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D119E1D3CCD6D0070B453 /* LaunchScreen.storyboard */; };
+		7E3D11A91D3CD04B0070B453 /* jungle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11A81D3CD04B0070B453 /* jungle.jpg */; };
+		7E3D11C91D3CD69E0070B453 /* bird1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11BA1D3CD69E0070B453 /* bird1.png */; };
+		7E3D11CA1D3CD69E0070B453 /* bird2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11BB1D3CD69E0070B453 /* bird2.png */; };
+		7E3D11CB1D3CD69E0070B453 /* bird3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11BC1D3CD69E0070B453 /* bird3.png */; };
+		7E3D11CC1D3CD69E0070B453 /* bird4.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11BD1D3CD69E0070B453 /* bird4.png */; };
+		7E3D11CD1D3CD69E0070B453 /* bird5.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11BE1D3CD69E0070B453 /* bird5.png */; };
+		7E3D11CE1D3CD69E0070B453 /* bird6.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11BF1D3CD69E0070B453 /* bird6.png */; };
+		7E3D11CF1D3CD69E0070B453 /* bird7.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11C01D3CD69E0070B453 /* bird7.png */; };
+		7E3D11D01D3CD69E0070B453 /* bird8.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11C11D3CD69E0070B453 /* bird8.png */; };
+		7E3D11D11D3CD69E0070B453 /* bird9.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11C21D3CD69E0070B453 /* bird9.png */; };
+		7E3D11D21D3CD69E0070B453 /* bird10.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11C31D3CD69E0070B453 /* bird10.png */; };
+		7E3D11D31D3CD69E0070B453 /* bird11.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11C41D3CD69E0070B453 /* bird11.png */; };
+		7E3D11D41D3CD69E0070B453 /* bird12.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11C51D3CD69E0070B453 /* bird12.png */; };
+		7E3D11D51D3CD69E0070B453 /* bird13.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11C61D3CD69E0070B453 /* bird13.png */; };
+		7E3D11D61D3CD69E0070B453 /* bird14.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11C71D3CD69E0070B453 /* bird14.png */; };
+		7E3D11D71D3CD69E0070B453 /* bird15.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11C81D3CD69E0070B453 /* bird15.png */; };
+		7E3D11D91D3CE1290070B453 /* Sparrow-sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7E3D11D81D3CE1290070B453 /* Sparrow-sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +39,23 @@
 		7E3D119C1D3CCD6D0070B453 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E3D119F1D3CCD6D0070B453 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7E3D11A11D3CCD6D0070B453 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E3D11A81D3CD04B0070B453 /* jungle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jungle.jpg; sourceTree = "<group>"; };
+		7E3D11BA1D3CD69E0070B453 /* bird1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird1.png; sourceTree = "<group>"; };
+		7E3D11BB1D3CD69E0070B453 /* bird2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird2.png; sourceTree = "<group>"; };
+		7E3D11BC1D3CD69E0070B453 /* bird3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird3.png; sourceTree = "<group>"; };
+		7E3D11BD1D3CD69E0070B453 /* bird4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird4.png; sourceTree = "<group>"; };
+		7E3D11BE1D3CD69E0070B453 /* bird5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird5.png; sourceTree = "<group>"; };
+		7E3D11BF1D3CD69E0070B453 /* bird6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird6.png; sourceTree = "<group>"; };
+		7E3D11C01D3CD69E0070B453 /* bird7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird7.png; sourceTree = "<group>"; };
+		7E3D11C11D3CD69E0070B453 /* bird8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird8.png; sourceTree = "<group>"; };
+		7E3D11C21D3CD69E0070B453 /* bird9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird9.png; sourceTree = "<group>"; };
+		7E3D11C31D3CD69E0070B453 /* bird10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird10.png; sourceTree = "<group>"; };
+		7E3D11C41D3CD69E0070B453 /* bird11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird11.png; sourceTree = "<group>"; };
+		7E3D11C51D3CD69E0070B453 /* bird12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird12.png; sourceTree = "<group>"; };
+		7E3D11C61D3CD69E0070B453 /* bird13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird13.png; sourceTree = "<group>"; };
+		7E3D11C71D3CD69E0070B453 /* bird14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird14.png; sourceTree = "<group>"; };
+		7E3D11C81D3CD69E0070B453 /* bird15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird15.png; sourceTree = "<group>"; };
+		7E3D11D81D3CE1290070B453 /* Sparrow-sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sparrow-sound.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +88,8 @@
 		7E3D11941D3CCD6D0070B453 /* BirdFly */ = {
 			isa = PBXGroup;
 			children = (
+				7E3D11D81D3CE1290070B453 /* Sparrow-sound.mp3 */,
+				7E3D11A71D3CCEE90070B453 /* Images */,
 				7E3D11951D3CCD6D0070B453 /* AppDelegate.swift */,
 				7E3D11971D3CCD6D0070B453 /* ViewController.swift */,
 				7E3D11991D3CCD6D0070B453 /* Main.storyboard */,
@@ -62,6 +98,29 @@
 				7E3D11A11D3CCD6D0070B453 /* Info.plist */,
 			);
 			path = BirdFly;
+			sourceTree = "<group>";
+		};
+		7E3D11A71D3CCEE90070B453 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				7E3D11BA1D3CD69E0070B453 /* bird1.png */,
+				7E3D11BB1D3CD69E0070B453 /* bird2.png */,
+				7E3D11BC1D3CD69E0070B453 /* bird3.png */,
+				7E3D11BD1D3CD69E0070B453 /* bird4.png */,
+				7E3D11BE1D3CD69E0070B453 /* bird5.png */,
+				7E3D11BF1D3CD69E0070B453 /* bird6.png */,
+				7E3D11C01D3CD69E0070B453 /* bird7.png */,
+				7E3D11C11D3CD69E0070B453 /* bird8.png */,
+				7E3D11C21D3CD69E0070B453 /* bird9.png */,
+				7E3D11C31D3CD69E0070B453 /* bird10.png */,
+				7E3D11C41D3CD69E0070B453 /* bird11.png */,
+				7E3D11C51D3CD69E0070B453 /* bird12.png */,
+				7E3D11C61D3CD69E0070B453 /* bird13.png */,
+				7E3D11C71D3CD69E0070B453 /* bird14.png */,
+				7E3D11C81D3CD69E0070B453 /* bird15.png */,
+				7E3D11A81D3CD04B0070B453 /* jungle.jpg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +181,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E3D11CF1D3CD69E0070B453 /* bird7.png in Resources */,
+				7E3D11D41D3CD69E0070B453 /* bird12.png in Resources */,
+				7E3D11D21D3CD69E0070B453 /* bird10.png in Resources */,
+				7E3D11D71D3CD69E0070B453 /* bird15.png in Resources */,
+				7E3D11D11D3CD69E0070B453 /* bird9.png in Resources */,
+				7E3D11C91D3CD69E0070B453 /* bird1.png in Resources */,
+				7E3D11D61D3CD69E0070B453 /* bird14.png in Resources */,
+				7E3D11CC1D3CD69E0070B453 /* bird4.png in Resources */,
+				7E3D11CD1D3CD69E0070B453 /* bird5.png in Resources */,
 				7E3D11A01D3CCD6D0070B453 /* LaunchScreen.storyboard in Resources */,
+				7E3D11D01D3CD69E0070B453 /* bird8.png in Resources */,
+				7E3D11D31D3CD69E0070B453 /* bird11.png in Resources */,
 				7E3D119D1D3CCD6D0070B453 /* Assets.xcassets in Resources */,
+				7E3D11CE1D3CD69E0070B453 /* bird6.png in Resources */,
+				7E3D11A91D3CD04B0070B453 /* jungle.jpg in Resources */,
 				7E3D119B1D3CCD6D0070B453 /* Main.storyboard in Resources */,
+				7E3D11D51D3CD69E0070B453 /* bird13.png in Resources */,
+				7E3D11CB1D3CD69E0070B453 /* bird3.png in Resources */,
+				7E3D11CA1D3CD69E0070B453 /* bird2.png in Resources */,
+				7E3D11D91D3CE1290070B453 /* Sparrow-sound.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
